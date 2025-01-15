@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh" alt="lokesh" /></a> </p>
 
 - 🌱 I’m currently learning **Swift, Xcode, etc,..**
@@ -17,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.lokesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.lokesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lokesh ls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh ls" height="30" width="40" /></a>
+<a href="https://dev.to/https://personal-website-1bdu4zp89-lokeshs-projects-9904e6c6.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://personal-website-1bdu4zp89-lokeshs-projects-9904e6c6.vercel.app/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lokesh-ls-90a03a304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lokesh-ls-90a03a304/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
